@@ -10,7 +10,7 @@ Este diretório contém os notebooks individuais dos alunos. Cada aluno deve cri
    - **Área de Interesse**: `<sua área de interesse aqui>`
    - **Informações Relevantes**: `<suas informações relevantes aqui>`
 
-   Consulte o [README.md de exemplo](#template-readme-alunos) abaixo para facilitar a criação do seu arquivo.
+   Consulte o [template-readme-alunos](https://github.com/mlcortex/ML-ADS-4NA-24/blob/main/NOTEBOOKS/template-readme-alunos.md) abaixo para facilitar a criação do seu arquivo.
 
 3. **Notebooks**: Adicione seus notebooks de estudo ou projetos na sua pasta.
 4. **Organização**: Estruture seus arquivos de forma organizada e clara.
