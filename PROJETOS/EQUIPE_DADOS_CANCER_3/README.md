@@ -4,7 +4,7 @@
 - Jadson Camilo - 01526263
 - João Pedro Almeida de Albuquerque - 01758390
 - Gean Carlos Silva Colares - 01618752
-- Nome4 - Mat.
+- Gabriel Henrique Lapa - 01616281
 
 # Cancer 3 - Análises pertinentes a identificação de tumores
 Análises necessárias para identificação de risco de tumores
