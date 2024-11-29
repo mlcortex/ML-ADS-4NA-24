@@ -1,15 +1,15 @@
 # Equipe Cancer 3
 
-## Equipe (max 4 pessoas):
+## Equipe:
 - Jadson Camilo - 01526263
 - João Pedro Almeida de Albuquerque - 01758390
 - Gean Carlos Silva Colares - 01618752
 - Nome4 - Mat.
 
-# Nome projeto
+# Cancer 3 - Análises pertinentes a identificação de tumores
 Análises necessárias para identificação de risco de tumores
 
-# Tema
+# Identificação de tumores benignos ou malignos
 Neste projeto realizamos análises em um DataSet que nos fornecia dados a respeito de diferentes tipos de câncer. Neste dataSet realizamos diversos processos tais como: 
 
 - Normalização
