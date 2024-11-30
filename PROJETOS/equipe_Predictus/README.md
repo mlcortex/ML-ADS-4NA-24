@@ -2,6 +2,7 @@
 
 ## Equipe (max 4 pessoas):
 - Bruno Vinícius Melo da Fonseca - 01603003
+- Estevão de Lucas da Silva Ribeiro	01591109
 - Matheus Augusto de Moura - 01586638
 - Weydson Roberval da Silva Rodrigues - 01603053
 
