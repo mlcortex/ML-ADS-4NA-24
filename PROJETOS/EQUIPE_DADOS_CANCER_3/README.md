@@ -1,10 +1,10 @@
 # Equipe Cancer 3
 
 ## Equipe:
-- Jadson Camilo - 01526263
-- João Pedro Almeida de Albuquerque - 01758390
-- Gean Carlos Silva Colares - 01618752
-- Gabriel Henrique Lapa - 01616281
+- Jadson Camilo - 01526263 (Elaboração dos dados do desvio padrão, média do notebook)
+- João Pedro Almeida de Albuquerque - 01758390 (Construção do readme e disponibilização no GitHub da atividade e validação do notebook)
+- Gean Carlos Silva Colares - 01618752 (Construção do notebook do Heat map)
+- Gabriel Henrique Lapa - 01616281 (Disponibilização e ajustes no notebook com treinamento KNN e K-FOLD)
 
 # Cancer 3 - Análises pertinentes a identificação de tumores
 Análises necessárias para identificação de risco de tumores
