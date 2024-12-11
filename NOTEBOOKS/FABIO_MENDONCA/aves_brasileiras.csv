@@ -1,0 +1,42 @@
+nome_comum,bioma,habito_alimentar,status_conservacao,envergadura_asa_cm,peso_kg,nome_cientifico,tamanho_cm,distribuicao_geografica,periodo_atividade,habitat_preferido
+Arara Azul,Cerrado,Frugívoro,Vulnerável,120,1.2,Anodorhynchus hyacinthinus,90,Amazônia,Diurno,Florestas tropicais e áreas alagadas
+Tucano Toco,Amazônia,Frugívoro,Pouco Preocupante,50,0.7,Ramphastos toco,55,Amazônia,Diurno,Florestas tropicais
+Curió,Mata Atlântica,Granívoro,Pouco Preocupante,20,0.02,Sporophila angolensis,15,Mata Atlântica,Diurno,Campos e cerrados
+Papagaio Verdadeiro,Pantanal,Frugívoro,Pouco Preocupante,40,0.4,Amazona aestiva,40,Pantanal,Diurno,Florestas e áreas abertas
+Gavião Real,Amazônia,Carnívoro,Em Perigo,200,6.5,Harpia harpyja,85,Amazônia,Diurno,Florestas densas
+Beija-flor,Mata Atlântica,Nectarívoro,Pouco Preocupante,12,0.01,Anthracothorax viridis,10,Mata Atlântica,Diurno,Jardins e florestas
+Sabiá Laranjeira,Cerrado,Onívoro,Pouco Preocupante,30,0.08,Turdus rufiventris,23,Cerrado,Diurno,Áreas abertas e arbustivas
+Urubu Rei,Pantanal,Carnívoro,Quase Ameaçado,180,3.5,Sarcoramphus papa,70,Pantanal,Diurno,Áreas alagadas e campos abertos
+Ararajuba,Amazônia,Frugívoro,Vulnerável,35,0.3,Guaruba guarouba,40,Amazônia,Diurno,Florestas primárias
+Canário da Terra,Cerrado,Granívoro,Pouco Preocupante,25,0.05,Serinus canaria,12,Cerrado,Diurno,Cerrados e pastagens
+Andorinha,Pantanal,Insectívoro,Pouco Preocupante,25,0.02,Hirundo rustica,20,Pantanal,Diurno,Campos abertos
+Codorna,Cerrado,Onívoro,Pouco Preocupante,18,0.12,Colinus virginianus,30,Cerrado,Diurno,Áreas abertas e cerrados
+Jacu,Mata Atlântica,Frugívoro,Em Perigo,70,3.1,Crax rubra,80,Mata Atlântica,Diurno,Florestas densas
+Guaracá,Pantanal,Frugívoro,Quase Ameaçado,80,1.8,Pipile cumanensis,60,Pantanal,Diurno,Áreas alagadas e vegetação rasteira
+Macaúba,Amazônia,Frugívoro,Vulnerável,90,2.5,Leptodon nobilis,70,Amazônia,Diurno,Florestas de várzea
+Periquito,Amazônia,Frugívoro,Pouco Preocupante,25,0.03,Myiopsitta monachus,30,Amazônia,Diurno,Florestas e campos abertos
+Tuiuiú,Pantanal,Carnívoro,Em Perigo,180,7.0,Jabiru mycteria,150,Pantanal,Diurno,Áreas alagadas
+Cacau,Amazônia,Frugívoro,Em Perigo,65,2.2,Pyrrhura leucotis,50,Amazônia,Diurno,Florestas tropicais
+Martinete,Cerrado,Insectívoro,Pouco Preocupante,40,0.4,Phacellodomus ruber,30,Cerrado,Diurno,Áreas abertas e matas
+Papagaio de Cara-roxa,Amazônia,Frugívoro,Em Perigo,35,0.45,Amazona brasiliensis,50,Amazônia,Diurno,Florestas densas
+Pica-pau,Mata Atlântica,Insectívoro,Pouco Preocupante,20,0.08,Melanerpes erythrocephalus,22,Mata Atlântica,Diurno,Florestas densas
+Nambu,Cerrado,Granívoro,Pouco Preocupante,25,0.1,Nothura maculosa,23,Cerrado,Diurno,Áreas abertas e cerrados
+Jararaca,Amazônia,Carnívoro,Em Perigo,150,4.5,Spilornis cheela,80,Amazônia,Diurno,Florestas densas
+Cisne-Pardo,Cerrado,Onívoro,Quase Ameaçado,160,4.0,Cygnus olor,150,Cerrado,Diurno,Lagos e áreas alagadas
+Cegonha,Amazônia,Carnívoro,Em Perigo,190,5.5,Ciconia ciconia,160,Amazônia,Diurno,Áreas alagadas
+Gavião-Carijó,Cerrado,Carnívoro,Quase Ameaçado,180,2.0,Buteo magnirostris,50,Cerrado,Diurno,Áreas abertas
+Irapuru,Amazônia,Insectívoro,Pouco Preocupante,30,0.09,Iridophora sapphira,35,Amazônia,Diurno,Florestas tropicais
+Uruçu,Amazônia,Frugívoro,Em Perigo,120,1.7,Psarocolius decumanus,50,Amazônia,Diurno,Florestas tropicais
+Atum,Pantanal,Carnívoro,Pouco Preocupante,200,6.3,Pelecanus occidentalis,180,Pantanal,Diurno,Áreas alagadas
+Búfalo-do-rio,Amazônia,Onívoro,Quase Ameaçado,180,3.0,Bubalus bubalis,160,Amazônia,Diurno,Lagos e rios
+Jaburu,Pantanal,Carnívoro,Em Perigo,210,8.0,Mycteria americana,250,Pantanal,Diurno,Áreas alagadas
+Macuco,Mata Atlântica,Onívoro,Pouco Preocupante,50,0.8,Aburria aburri,40,Mata Atlântica,Diurno,Florestas densas
+Avoante,Pantanal,Insectívoro,Pouco Preocupante,15,0.05,Attagenus flaviventris,20,Pantanal,Diurno,Campos abertos
+Vira-lata,Cerrado,Onívoro,Pouco Preocupante,40,0.25,Avestruz vulgaris,35,Cerrado,Diurno,Áreas abertas e matas
+Guariba,Mata Atlântica,Frugívoro,Em Perigo,100,4.0,Alouatta guariba,60,Mata Atlântica,Diurno,Florestas densas
+Galo-da-serra,Amazônia,Granívoro,Pouco Preocupante,60,2.0,Phasianus colchicus,55,Amazônia,Diurno,Florestas densas
+Maritaca,Pantanal,Frugívoro,Pouco Preocupante,50,0.6,Psittacara leucophthalmus,40,Pantanal,Diurno,Áreas florestais
+Papagaio-do-pará,Amazônia,Frugívoro,Vulnerável,50,0.6,Amazona festiva,40,Amazônia,Diurno,Florestas tropicais
+Catarina,Cerrado,Insectívoro,Em Perigo,60,0.25,Phylloscopus collybita,45,Cerrado,Diurno,Áreas arbustivas
+Ibis,Amazônia,Carnívoro,Pouco Preocupante,120,3.2,Eudocimus ruber,130,Amazônia,Diurno,Áreas alagadas
+Ema,Pantanal,Carnívoro,Pouco Preocupante,180,5.0,Rhea americana,140,Pantanal,Diurno,Campos abertos e áreas alagadas
