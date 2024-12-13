@@ -1,5 +1,9 @@
-Nome: Daniel dos Anjos 
+# NOME: 
+Daniel dos Anjos
 
-área de interesse: Banco de dados 
+# ÁREA DE INTERESSE: 
+Banco de dados
 
-informação extra relevante: quero me tornar um desenvolvedor SQL totalmente habilitado para o mundo profissional e poder sempre melhorar e desenvolver minhas habilidades.
+# INFORMAÇÕES RELEVANTES: 
+Quero me tornar um desenvolvedor SQL totalmente habilitado para o mundo profissional e poder sempre melhorar e desenvolver minhas habilidades.
+
